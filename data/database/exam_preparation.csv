@@ -1,0 +1,19 @@
+Government_Exam,Preparation_Status,Total_Students
+Banking,Planning,58
+Banking,"Not Preparing",56
+Banking,Preparing,50
+None,"Not Preparing",64
+None,Preparing,60
+None,Planning,49
+Other,Preparing,62
+Other,Planning,59
+Other,"Not Preparing",57
+Railway,Preparing,60
+Railway,"Not Preparing",56
+Railway,Planning,47
+SSC,Preparing,64
+SSC,Planning,55
+SSC,"Not Preparing",48
+TNPSC,"Not Preparing",58
+TNPSC,Preparing,50
+TNPSC,Planning,47

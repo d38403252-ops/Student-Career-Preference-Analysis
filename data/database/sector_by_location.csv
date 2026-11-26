@@ -1,0 +1,16 @@
+Work_Location_Preference,Preferred_Sector,Total_Students
+Anywhere,Private,89
+Anywhere,Government,85
+Anywhere,Both,23
+Bangalore,Government,85
+Bangalore,Private,78
+Bangalore,Both,28
+Chennai,Private,79
+Chennai,Government,67
+Chennai,Both,40
+"Other India",Government,91
+"Other India",Private,90
+"Other India",Both,29
+"Other Tamil Nadu",Private,91
+"Other Tamil Nadu",Government,88
+"Other Tamil Nadu",Both,37

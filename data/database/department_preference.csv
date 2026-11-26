@@ -1,0 +1,22 @@
+Department,Preferred_Sector,Total_Students
+Arts,Private,64
+Arts,Government,52
+Arts,Both,17
+Commerce,Private,67
+Commerce,Government,58
+Commerce,Both,20
+"Computer Science",Private,58
+"Computer Science",Government,55
+"Computer Science",Both,12
+Economics,Private,62
+Economics,Government,62
+Economics,Both,38
+Engineering,Private,64
+Engineering,Government,63
+Engineering,Both,23
+Management,Private,67
+Management,Government,59
+Management,Both,23
+Statistics,Government,67
+Statistics,Private,45
+Statistics,Both,24
